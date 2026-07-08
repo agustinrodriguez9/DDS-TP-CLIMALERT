@@ -1,0 +1,5 @@
+weather.api.key={API_KEY}
+weather.api.url=https://api.weatherapi.com/v1/current.json
+weather.api.location=-34.6037,-58.3816
+weather.scheduler.cron=*/10 * * * * *
+alert.scheduler.cron=0 */1 * * * *
