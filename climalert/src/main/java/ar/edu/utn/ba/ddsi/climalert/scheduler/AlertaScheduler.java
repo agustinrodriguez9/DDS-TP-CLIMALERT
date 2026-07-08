@@ -17,5 +17,4 @@ public class AlertaScheduler {
   public void verificarAlertas() {
     alertaService.verificarAlertas();
   }
-
 }

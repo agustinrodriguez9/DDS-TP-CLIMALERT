@@ -3,3 +3,11 @@ weather.api.url=https://api.weatherapi.com/v1/current.json
 weather.api.location=-34.6037,-58.3816
 weather.scheduler.cron=*/10 * * * * *
 alert.scheduler.cron=0 */1 * * * *
+
+spring.mail.host=
+spring.mail.port=
+spring.mail.username=
+spring.mail.password=
+
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
